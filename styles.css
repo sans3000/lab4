@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+  }
+  #book-list, #user-list {
+    margin-top: 1rem;
+  }
+  .card {
+    margin-bottom: 1rem;
+  }
+  
